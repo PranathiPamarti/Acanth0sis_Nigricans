@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+pillow
+pillow-heif
+opencv-python
+pandas
+numpy
+tqdm
+scikit-learn
+matplotlib
+seaborn

@@ -1,4 +1,3 @@
-```
 # Acanthosis Nigricans Grading (Baseline Deep Learning Model)
 
 This repository contains a baseline deep learning model for grading 
@@ -10,7 +9,6 @@ The aim is to build a reproducible foundation for future clinical modeling
 and research, including neck-region cropping, multi-view fusion, and 
 regression-based grading.
 
----
 
 ## 📂 Project Structure
 
@@ -135,5 +133,6 @@ src/main.ipynb
 - 🔲 Regression-based grading (ordinal modeling)
 - 🔲 Grad-CAM interpretability
 - 🔲 Hyperparameter tuning
+
 
 ---
